@@ -1,8 +1,0 @@
-disjoint_sets/eval.sh
-disjoint_sets/CMakeLists.txt
-disjoint_sets/tests
-arithmetic/eval.sh
-arithmetic/CMakeLists.txt
-arithmetic/tests
-.clang-format
-.clang-tidy
